@@ -1,1 +1,10 @@
 body {background-color:#000000;}
+
+h2 {color:white;
+	font-size:25px;
+	padding-left:20px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-bottom:1px solid grey;
+	border-right:1px solid grey;
+	border-left:1px solid grey;}
