@@ -1,5 +1,7 @@
 body {background-color:#000000;}
 
+#icon{position:absolute;}
+
 h2 {color:white;
 	font-size:25px;
 	padding-left:20px;
@@ -8,3 +10,14 @@ h2 {color:white;
 	border-bottom:1px solid grey;
 	border-right:1px solid grey;
 	border-left:1px solid grey;}
+
+#posttext {background-color:#000000;
+			margin-top:5px;
+			margin-left:70px;
+			color:grey;}
+
+.material-icons{vertical-align:middle;
+				color:#1679b6;
+				border:1px solid #1679b6;}
+
+#icons{margin-top:10px;}
