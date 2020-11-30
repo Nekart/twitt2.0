@@ -1,5 +1,24 @@
-body {background-color:#000000;}
+body {
+  background-color: #000000;
+}
 
+h2 {
+  color: white;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+}
+#navbar {position:absolute;
+	line-height:4em;
+	margin-left:200px;
+}
+.row{
+	padding: 40px;
+}
 #icon{	margin-left:5px;
 		margin-bottom:5px; 
 		position:absolute;}
@@ -33,4 +52,25 @@ h2 {color:white;
 		margin-bottom:5px; 
 		margin-top:10px;}
 
-#article{position:absolute;}
+#article{position:absolute;
+		border-bottom:10px solid grey;
+		border-right:1px solid grey;
+		border-left:1px solid grey;}
+
+#icon2{margin-top:10px;
+		margin-left:5px;
+		margin-bottom:5px; 
+		position:absolute;}
+
+h6 {position:absolute;
+	padding-left:100px;
+	color:white;}
+
+#imga{	width:500px;
+		margin-left:100px;}
+
+#text{margin-top:20px;}
+
+p {	max-width:1008px;
+	margin-left:100px;
+	color:white;}
