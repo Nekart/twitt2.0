@@ -12,65 +12,87 @@ h2 {
   border-right: 1px solid grey;
   border-left: 1px solid grey;
 }
-#navbar {position:absolute;
-	line-height:4em;
-	margin-left:200px;
+#navbar {
+  position: absolute;
+  line-height: 4em;
+  margin-left: 200px;
 }
-.row{
-	padding: 40px;
+.row {
+  padding: 40px;
 }
-#icon{	margin-left:5px;
-		margin-bottom:5px; 
-		position:absolute;}
+#icon {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  position: absolute;
+}
 
-h2 {color:white;
-	font-size:25px;
-	padding-left:20px;
-	padding-top:15px;
-	padding-bottom:15px;
-	border-bottom:1px solid grey;
-	border-right:1px solid grey;
-	border-left:1px solid grey;}
+h2 {
+  color: white;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+}
 
+#post {
+  border-bottom: 10px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+}
 
+#posttext {
+  background-color: #000000;
+  margin-top: 5px;
+  margin-left: 75px;
+  color: grey;
+}
 
-#post{	
-		border-bottom:10px solid grey;
-		border-right:1px solid grey;
-		border-left:1px solid grey;}
+.material-icons {
+  vertical-align: middle;
+  color: #1679b6;
+  border: 1px solid #1679b6;
+}
 
-#posttext {background-color:#000000;
-			margin-top:5px;
-			margin-left:75px;
-			color:grey;}
+#icons {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
 
-.material-icons{vertical-align:middle;
-				color:#1679b6;
-				border:1px solid #1679b6;}
+#article {
+  position: absolute;
+  border-bottom: 10px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+}
 
-#icons{ margin-left:5px;
-		margin-bottom:5px; 
-		margin-top:10px;}
+#icon2 {
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  position: absolute;
+}
 
-#article{position:absolute;
-		border-bottom:10px solid grey;
-		border-right:1px solid grey;
-		border-left:1px solid grey;}
+h6 {
+  position: absolute;
+  padding-left: 100px;
+  color: white;
+}
 
-#icon2{margin-top:10px;
-		margin-left:5px;
-		margin-bottom:5px; 
-		position:absolute;}
+#imga {
+  width: 500px;
+  margin-left: 100px;
+}
 
-h6 {position:absolute;
-	padding-left:100px;
-	color:white;}
+#text {
+  margin-top: 20px;
+}
 
-#imga{	width:500px;
-		margin-left:100px;}
-
-#text{margin-top:20px;}
-
-p {	max-width:1008px;
-	margin-left:100px;
-	color:white;}
+p {
+  max-width: 1008px;
+  margin-left: 100px;
+  color: white;
+}
