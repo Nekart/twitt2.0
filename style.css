@@ -3,6 +3,7 @@ body {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 h2 {
   color: white;
   font-size: 25px;
@@ -21,6 +22,11 @@ h2 {
 }
 =======
 #icon{position:absolute;}
+=======
+#icon{	margin-left:5px;
+		margin-bottom:5px; 
+		position:absolute;}
+>>>>>>> 0906c54c2039396ac2612a7844233262ece36202
 
 h2 {color:white;
 	font-size:25px;
@@ -31,14 +37,27 @@ h2 {color:white;
 	border-right:1px solid grey;
 	border-left:1px solid grey;}
 
+
+
+#post{	
+		border-bottom:1px solid grey;
+		border-right:1px solid grey;
+		border-left:1px solid grey;}
+
 #posttext {background-color:#000000;
 			margin-top:5px;
-			margin-left:70px;
+			margin-left:75px;
 			color:grey;}
 
 .material-icons{vertical-align:middle;
 				color:#1679b6;
 				border:1px solid #1679b6;}
 
+<<<<<<< HEAD
 #icons{margin-top:10px;}
 >>>>>>> b2417f77055cfdfd7d3d558b7745055107a0aa68
+=======
+#icons{ margin-left:5px;
+		margin-bottom:5px; 
+		margin-top:10px;}
+>>>>>>> 0906c54c2039396ac2612a7844233262ece36202
