@@ -167,16 +167,23 @@ h6 {
 	color:white;
 	font-size:25px;}
 
-#modifier{padding:10px;
+#modifier{text-decoration:none;
+		color:#1b94de;
+		padding:10px;
 		margin-left:900px;
 		position:absolute;
 		border:1px solid #007bff;
 		border-radius:9999px;
-		margin-top:-85px;}	
+		margin-top:-85px;}
+
+#modifier:hover{background-color:#031019; }	
 
 #urself{color:grey;}
 
-#part3{ margin-left:10px;
+
+
+#part3{ 
+		margin-left:10px;
 		color:white;}	
 
 #start{ border-bottom:1px solid grey;
@@ -198,5 +205,4 @@ td:hover{background-color:#031019;
 
 a{color:#1da1f2;}
 
-#part2 a:hover{background-color:#031019; }
-
+a:hover{color:#1da1f2;}
