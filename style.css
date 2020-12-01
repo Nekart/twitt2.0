@@ -200,3 +200,18 @@ a{color:#1da1f2;}
 
 #part2 a:hover{background-color:#031019; }
 
+#recherche {
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  
+}
+#search{
+  display: flex;align-content: space-around; 
+}
+#champ{
+  width: 600px;margin-left: 250px;margin-top: 10px; margin-bottom: 10px;height: 40px;
+}
+.bi-bi-gear-fill{
+  margin-top: 5px;margin-left: 10px
+}
