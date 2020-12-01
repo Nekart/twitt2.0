@@ -103,6 +103,7 @@ h6 {
 
 #tittle2 {font-weight:bold;
 	color:white;
+	margin-bottom:0px; 
 	font-size:25px;
 	padding-left:20px;
 	padding-top:15px;
@@ -119,7 +120,7 @@ h6 {
 		position:absolute;}
 
 #font{height:300px;
-	width:1110px;}	
+	width:1108px;}	
 
 #photodp{margin-left:25px;
 		margin-top:230px;
@@ -129,8 +130,25 @@ h6 {
 		border-radius:50%;
 		border: 1px solid green;}		
 
-#part2{margin-top:100px;}
+#part2{margin-top:100px;
+	margin-left:10px;}
 
 #tittle3 {font-weight:bold;
 	color:white;
-	font-size:25px;}	
+	font-size:25px;}
+
+#urself{color:grey;}
+
+#part3{ margin-left:10px;
+		color:white;}	
+
+#start{ border-bottom:1px solid grey;
+		border-right:1px solid grey;
+		border-left:1px solid grey;}	
+
+table{ margin-top:30px;
+		margin-left:100px;}	
+
+td{
+	font-size:20px; 
+	padding-left:120px;}		
