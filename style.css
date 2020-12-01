@@ -6,11 +6,22 @@ body {
 	font-weight:bold;
   position: absolute;
   line-height: 4em;
-  margin-left: 150px;
+  margin-left: 130px;
 }
 
-#navbar a {
-	color:white; }
+#navbar a { text-decoration:none;
+			padding-top:10px;
+			padding-bottom:10px;
+			padding-right:30px;
+			padding-left:20px; 
+			border-radius:9999px;
+			color:white; }
+
+#navbar a:hover { 	background-color:#031019;
+					border: 1px solid #031019;
+					color:#1da1f2;}	
+
+#navbar a:active{color:#1da1f2;}					
 
 #navbar button {margin-left:-20px;
 	padding:10px;
@@ -172,11 +183,20 @@ h6 {
 		border-right:1px solid grey;
 		border-left:1px solid grey;}	
 
-table{ margin-top:30px;
-		margin-left:100px;}	
+table{ margin-top:30px;}	
 
-td{
+td{ color:grey;
 	font-size:20px; 
-	padding-left:120px;}
+padding-left:94.5px;
+padding-right:94.5px;
+padding-top:10px;
+padding-bottom:10px; }
 
+td:hover{background-color:#031019;
+		border: 1px solid #031019;
+		color:#1da1f2;}
+
+a{color:#1da1f2;}
+
+#part2 a:hover{background-color:#031019; }
 
