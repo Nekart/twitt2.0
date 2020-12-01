@@ -2,16 +2,6 @@ body {
   background-color: #000000;
 }
 
-h2 {
-  color: white;
-  font-size: 25px;
-  padding-left: 20px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  border-bottom: 1px solid grey;
-  border-right: 1px solid grey;
-  border-left: 1px solid grey;
-}
 #navbar {
   position: absolute;
   line-height: 4em;
@@ -36,7 +26,7 @@ h2 {
 
 #icond{margin-left:70px;}
 
-h2 {font-weight:bold;
+#tittle {font-weight:bold;
 	color:white;
 	font-size:25px;
 	padding-left:20px;
@@ -45,18 +35,6 @@ h2 {font-weight:bold;
 	border-bottom:1px solid grey;
 	border-right:1px solid grey;
 	border-left:1px solid grey;}
-
-
-h2 {
-  color: white;
-  font-size: 25px;
-  padding-left: 20px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  border-bottom: 1px solid grey;
-  border-right: 1px solid grey;
-  border-left: 1px solid grey;
-}
 
 #post {
   border-bottom: 10px solid grey;
@@ -108,8 +86,10 @@ h6 {
 		border-radius:1%;}
 
 #text {
-  margin-top: 20px;
-}
+	  margin-top: 20px;
+	   max-width: 1008px;
+	  margin-left: 100px;
+	  color: white;}
 
 #photop {position:absolute;
 		margin-left:5px;
@@ -120,10 +100,17 @@ h6 {
 		border-radius:50%;
 		border: 1px solid white;}		
 
-p {	
-	max-width:1008px;
-	margin-left:100px;
-	color:white;}
+
+#tittle2 {font-weight:bold;
+	color:white;
+	font-size:25px;
+	padding-left:20px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-bottom:1px solid grey;
+	border-right:1px solid grey;
+	border-left:1px solid grey;
+	padding-left:50px;}	
 
 #titrep{padding-left:60px;}	
 
@@ -131,17 +118,19 @@ p {
 		margin-top:15px;
 		position:absolute;}
 
-#font{height:500px;
+#font{height:300px;
 	width:1110px;}	
 
-#photodp{position:absolute;
-		margin-right:1000px;
-		width:4em;
-		height:4em;
+#photodp{margin-left:25px;
+		margin-top:230px;
+		position:absolute;
+		width:10em;
+		height:10em;
 		border-radius:50%;
-		border: 1px solid white;}		
-p {
-  max-width: 1008px;
-  margin-left: 100px;
-  color: white;
-}
+		border: 1px solid green;}		
+
+#part2{margin-top:100px;}
+
+#tittle3 {font-weight:bold;
+	color:white;
+	font-size:25px;}	
