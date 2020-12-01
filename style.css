@@ -118,6 +118,9 @@ h6 {
 	  margin-left: 100px;
 	  color: white;}
 
+#article a {text-decoration:none;}
+
+
 #photop {position:absolute;
 		margin-left:5px;
 		margin-bottom:5px; 
@@ -224,5 +227,20 @@ padding-left:15px;}
 #like svg:hover{border-radius:9999px;
 	 background-color:#150a0e;
 	 border: 1px solid #150a0e;
-	 color:#893854;}						
+	 color:#893854;}
+
+#zoom {margin-left:100px;}
+
+#start2{ border-right:1px solid grey;
+		border-left:1px solid grey;}	
+
+#creat {padding-bottom:80px;}	
+
+#pseudo {margin-top:30px;}
+
+#urself2{margin-top:50px;
+		margin-left:95px;
+		position:absolute;
+		color:grey;}
+
 
