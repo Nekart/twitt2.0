@@ -2,6 +2,8 @@ body {
   background-color: #000000;
 }
 
+#bird{margin-left:15px;}
+
 #navbar {
 	font-weight:bold;
   position: absolute;
@@ -31,9 +33,10 @@ border-radius:9999px;}
 
 #menubar{margin-left:10px;}
 
-.row {
-  padding: 40px;
+.row {padding-left:40px;
+	padding-right:40px;
 }
+
 #icon {
   margin-left: 5px;
   margin-bottom: 5px;
@@ -111,12 +114,6 @@ h6 {
 
 #text {
 	  margin-top: 40px;
-	   max-width: 1008px;
-	  margin-left: 100px;
-	  color: white;}
-
-#text2 {
-	  margin-top: 20px;
 	   max-width: 1008px;
 	  margin-left: 100px;
 	  color: white;}
@@ -206,3 +203,26 @@ td:hover{background-color:#031019;
 a{color:#1da1f2;}
 
 a:hover{color:#1da1f2;}
+
+#articlem {margin-left:-130px;
+padding:20px;}
+
+#articlem svg{margin-left:200px; 
+padding-right:15px;
+padding-left:15px;}	
+
+#articlem svg:hover{border-radius:9999px;
+					background-color:#031019;
+					border: 1px solid #031019;
+					color:#1da1f2;}	
+
+#rt svg:hover{border-radius:9999px;
+	 background-color:#09140e;
+	 border: 1px solid #09140e;
+	 color:#1d5f3d;}
+
+#like svg:hover{border-radius:9999px;
+	 background-color:#150a0e;
+	 border: 1px solid #150a0e;
+	 color:#893854;}						
+
