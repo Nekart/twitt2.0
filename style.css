@@ -259,7 +259,22 @@ padding-left:15px;}
 	border-bottom:1px solid grey;
 	padding-left:50px;}	
 
-
 #article2 {
   border-bottom: 10px solid grey;
 }			
+
+#recherche {
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+  
+}
+#search{
+  display: flex;align-content: space-around; 
+}
+#champ{
+  width: 600px;margin-left: 250px;margin-top: 10px; margin-bottom: 10px;height: 40px;
+}
+.bi-bi-gear-fill{
+  margin-top: 5px;margin-left: 10px
+}
