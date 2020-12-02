@@ -294,3 +294,26 @@ padding-left:15px;}
 	   max-width: 1008px;
 	  margin-left: 80px;
 	  color: white;}
+
+#tweet{ padding-left:20px;
+		padding-right:20px; 
+		border-radius:9999px;
+	margin-left:720px;}	
+
+#more{	margin-left:1600px;
+		position:absolute;}
+
+#more svg {margin-top:5px;}		
+
+#more #search { padding-left:20px; 
+				padding-right:60px;
+				padding-bottom:5px; 
+				padding-top:5px;
+				margin-top:10px;
+				border:1px solid #1da1f2;
+				background-color:#202327;
+				border-radius:9999px;}		
+
+#more input {margin-left:10px;
+			border:0px;
+			background-color:#202327;}		
