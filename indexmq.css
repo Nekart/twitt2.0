@@ -1,3 +1,4 @@
+@media (min-width:768px) {#imga{margin-left:100px} }
 @media (min-width:768px) {section#more{margin-left:1070px} }
 @media (min-width:768px) {nav{margin-left:-156px} }
 @media (min-width:768px) {#article p{font-size:30px} }
@@ -5,7 +6,12 @@
 @media (min-width:768px) {button#tweet{margin-left:310px} }
 @media (min-width:768px) {section#more{margin-left:870px} }
 @media (min-width:768px) {#articlem svg{margin-left:140px}}
+@media (min-width:768px) {#navbar{margin-left:130px} }
+
+@media (min-width:992px) {#navbar{margin-left:130px} }
 @media (min-width:992px) {#navbar button{margin-left:10px} }
+
+
 @media (min-width:1024px) {#navbar button{margin-left:-20px} }
 @media (min-width:1024px) {input#posttext{width:500px} }
 @media (min-width:1024px) {#menubar{display:initial} }
@@ -19,6 +25,11 @@
 @media (min-width:1024px) {section#post{margin-left:300px} }
 @media (min-width:1024px) {button#tweet{margin-left:490px} }
 @media (min-width:1024px) {#articlem svg{margin-left:120px}}
+@media (min-width:1024px) {#imga{margin-left:50px} }
+@media (min-width:1024px) {#navbar{margin-left:120px} }
+
+@media (min-width:1440px) {#navbar{margin-left:110px} }
+@media (min-width:1440px) {#imga{margin-left:100px} }
 @media (min-width:1440px) {section#post{width:700px} }
 @media (min-width:1440px) {section#post{margin-left:200px} }
 @media (min-width:1440px) {input#posttext{width:600px} }
@@ -28,6 +39,6 @@
 @media (min-width:1440px) {section#more{margin-left:1130px} }
 @media (min-width:1440px) {nav{margin-left:-20px} }
 @media (min-width:1440px) {#articlem svg{margin-left:135px}}
-@media (min-width:2560px) {nav{margin-left:490px} } 
-@media (min-width:2560px) {section#more{margin-left:1645px} }
 
+@media (min-width:1920px) {section#more{margin-left:1340px} }
+@media (min-width:1920px) {#navbar{margin-left:300px} } 

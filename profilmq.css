@@ -1,0 +1,48 @@
+@media (min-width:768px) {section#part3{font-size:25px} }
+@media (min-width:768px) {p#text{font-size:25px} }
+@media (min-width:768px) {#imga{margin-left:50px} }
+@media (min-width:768px) {section#start{width:590px} }
+@media (min-width:768px) {section#start{margin-left:200px} }
+@media (min-width:768px) {td{padding-left:29.5px} }
+@media (min-width:768px) {td{padding-right:29.5px} }
+@media (min-width:768px) {img#font{width:590px} }
+@media (min-width:768px) {#modifier{margin-left:410px} }
+@media (min-width:768px) {section#article{width:590px} }
+@media (min-width:768px) {section#article{margin-left:200px} }
+@media (min-width:768px) {#articlem svg{margin-left:115px}}
+@media (min-width:768px) {section#more{margin-left:970px} }
+@media (min-width:768px) {#navbar{margin-left:130px} }
+
+@media (min-width:992px) {#navbar{margin-left:130px} }
+@media (min-width:992px) {#navbar button{margin-left:10px} }
+
+@media (min-width:1024px) {section#part3{font-size:20px} }
+@media (min-width:1024px) {p#text{font-size:20px} }
+@media (min-width:1024px) {section#start{width:590px} }
+@media (min-width:1024px) {section#start{margin-left:400px} }
+@media (min-width:1024px) {td{padding-left:29.5px} }
+@media (min-width:1024px) {td{padding-right:29.5px} }
+@media (min-width:1024px) {img#font{width:590px} }
+@media (min-width:1024px) {#modifier{margin-left:410px} }
+@media (min-width:1024px) {#imga{margin-left:50px} }
+@media (min-width:1024px) {section#article{width:590px} }
+@media (min-width:1024px) {section#article{margin-left:400px} }
+@media (min-width:1024px) {#articlem svg{margin-left:115px}}
+@media (min-width:1024px) {section#more{margin-left:1060px} }
+
+
+@media (min-width:1440px) {section#start{width:700px} }
+@media (min-width:1440px) {section#start{margin-left:190px} }
+@media (min-width:1440px) {td{padding-left:43.5px} }
+@media (min-width:1440px) {td{padding-right:43.5px} }
+@media (min-width:1440px) {img#font{width:698px} }
+@media (min-width:1440px) {#modifier{margin-left:520px} }
+@media (min-width:1440px) {section#article{width:700px} }
+@media (min-width:1440px) {section#article{margin-left:190px} }
+@media (min-width:1440px) {#articlem svg{margin-left:140px}}
+@media (min-width:1440px) {section#more{margin-left:1110px} }
+@media (min-width:1440px) {#navbar{margin-left:100px} }
+@media (min-width:1440px) {#imga{margin-left:100px} }
+
+@media (min-width:1920px) {section#more{margin-left:1330px} }
+@media (min-width:1920px) {#navbar{margin-left:290px} }

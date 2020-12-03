@@ -4,11 +4,10 @@ body {
 
 #bird{margin-left:15px;}
 
-#navbar {
+#navbar {width:100px;
 	font-weight:bold;
   position: absolute;
   line-height: 4em;
-  margin-left: 130px;
 }
 
 #navbar a { text-decoration:none;
@@ -25,9 +24,7 @@ body {
 
 #navbar a:active{color:#1da1f2;}	
 
-#navbar .navbar-toggler{ 
-						 margin-left:62px;
-						 padding:15px; 
+#navbar .navbar-toggler{ padding:15px; 
 						 padding-left:15px;
 						 padding-right:15px;}		
 
@@ -119,7 +116,6 @@ h6 {padding-top:20px;
 }
 
 #imga{	width:500px;
-		margin-left:100px;
 		border-radius:1%;}
 
 #text {
@@ -181,7 +177,6 @@ h6 {padding-top:20px;
 #modifier{text-decoration:none;
 		color:#1b94de;
 		padding:10px;
-		margin-left:900px;
 		position:absolute;
 		border:1px solid #007bff;
 		border-radius:9999px;
@@ -205,8 +200,6 @@ table{ margin-top:30px;}
 
 td{ color:grey;
 	font-size:20px; 
-padding-left:94.5px;
-padding-right:94.5px;
 padding-top:10px;
 padding-bottom:10px; }
 
