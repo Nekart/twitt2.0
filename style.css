@@ -23,13 +23,21 @@ body {
 					border: 1px solid #031019;
 					color:#1da1f2;}	
 
-#navbar a:active{color:#1da1f2;}					
+#navbar a:active{color:#1da1f2;}	
 
-#navbar button {margin-left:-20px;
+#navbar .navbar-toggler{ 
+						 margin-left:62px;
+						 padding:15px; 
+						 padding-left:15px;
+						 padding-right:15px;}		
+
+#navbar button {
 	padding:10px;
 padding-right:80px;
 padding-left:80px; 
 border-radius:9999px;}
+
+
 
 #menubar{margin-left:10px;}
 
@@ -42,7 +50,8 @@ border-radius:9999px;}
   margin-bottom: 5px;
   position: absolute;
 }
-#icon{	margin-left:5px;
+#icon{	z-index:-1;
+		margin-left:5px;
 		margin-bottom:5px; 
 		position:absolute;}
 
@@ -212,7 +221,7 @@ a:hover{color:#1da1f2;}
 #articlem {margin-left:-130px;
 padding:20px;}
 
-#articlem svg{margin-left:200px; 
+#articlem svg{
 padding-right:15px;
 padding-left:15px;}	
 
@@ -300,7 +309,7 @@ padding-left:15px;}
 		border-radius:9999px;
 	margin-left:720px;}	
 
-#more{	margin-left:1600px;
+#more{	margin-left:1540px;
 		position:absolute;}
 
 #more svg {margin-top:5px;}		
@@ -316,4 +325,98 @@ padding-left:15px;}
 
 #more input {margin-left:10px;
 			border:0px;
-			background-color:#202327;}		
+			background-color:#202327;}	
+
+#more #p { 	border-radius:19px;
+			border-bottom: 1px solid grey;
+			background-color:#202327;
+			padding-top:10px;
+			padding-bottom:10px;
+			padding-left:15px;
+			padding-right:40px;    
+			margin-top:20px; 
+			font-size:19px;
+			font-weight:bold;
+			color:white;}
+
+#people{background-color:#202327;
+		padding:10px; 
+		border-radius:19px;}			
+
+#people #suggestions{
+			font-size:20px;
+			color:white;
+			font-weight:bold;
+			padding-bottom:5px; 
+			margin-bottom:20px;
+			border-bottom:1px solid grey;}
+
+#people #photop {	margin-left:15px;
+					margin-top:-10px;}						
+
+#people #profil2 { 	padding-top:20px;
+					font-weight:bold;
+					color:white;
+					margin-top:100px;
+					margin-left:85px;}
+
+#people #plus {margin-left:20px;}
+
+#people #plus1 { margin-top:5px;
+				 padding:5px;}					
+
+#people1{	padding-bottom:10px;
+			margin-bottom:20px;	
+			border-bottom:1px solid grey;}
+
+#people2{	padding-bottom:10px;
+			border-bottom:1px solid grey;}
+
+#urself3{
+		margin-left:80px;
+		color:grey;}
+
+#follow{width:80px;
+		height:40px;
+		font-weight:bold;
+		border-radius:9999px;
+		border:1px solid #1da1f2;
+		background-color:#202327;
+		color:#1da1f2;
+		font-size:15px;
+		margin-top:-50px;
+		margin-left:250px;}
+
+#follow:hover{background-color:#1c2b37;}
+
+#people3{margin-top:20px; 
+		background-color:#202327;
+		padding:10px; 
+		border-radius:19px;}
+
+#people3 #suggestions{
+			margin-left:10px;
+			font-size:20px;
+			color:white;
+			font-weight:bold;
+			padding-bottom:5px; 
+			margin-bottom:20px;
+			border-bottom:1px solid grey;}
+
+#people3 #photop {	margin-left:15px;
+					margin-top:-10px;}						
+
+#people3 #profil2 { 	padding-top:20px;
+					font-weight:bold;
+					color:white;
+					margin-top:100px;
+					margin-left:85px;}
+
+#people3 #plus {margin-left:20px;}
+
+#people3 #plus1 { margin-top:5px;
+				 padding:5px;}
+
+#article #photop{z-index:-1;}	
+
+		 					

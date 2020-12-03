@@ -1,0 +1,33 @@
+@media (min-width:768px) {section#more{margin-left:1070px} }
+@media (min-width:768px) {nav{margin-left:-156px} }
+@media (min-width:768px) {#article p{font-size:30px} }
+@media (min-width:768px) {input#posttext{width:600px} }
+@media (min-width:768px) {button#tweet{margin-left:310px} }
+@media (min-width:768px) {section#more{margin-left:870px} }
+@media (min-width:768px) {#articlem svg{margin-left:140px}}
+@media (min-width:992px) {#navbar button{margin-left:10px} }
+@media (min-width:1024px) {#navbar button{margin-left:-20px} }
+@media (min-width:1024px) {input#posttext{width:500px} }
+@media (min-width:1024px) {#menubar{display:initial} }
+@media (min-width:1024px) {#mehdy{display:initial} }
+@media (min-width:1024px) {#article p{font-size:20px} }
+@media (min-width:1024px) {section#more{margin-left:960px} }
+@media (min-width:1024px) {nav{margin-left:-40px} }
+@media (min-width:1024px) {section#article{width:600px} }
+@media (min-width:1024px) {section#article{margin-left:300px} }
+@media (min-width:1024px) {section#post{width:600px} }
+@media (min-width:1024px) {section#post{margin-left:300px} }
+@media (min-width:1024px) {button#tweet{margin-left:490px} }
+@media (min-width:1024px) {#articlem svg{margin-left:120px}}
+@media (min-width:1440px) {section#post{width:700px} }
+@media (min-width:1440px) {section#post{margin-left:200px} }
+@media (min-width:1440px) {input#posttext{width:600px} }
+@media (min-width:1440px) {button#tweet{margin-left:330px} }
+@media (min-width:1440px) {section#article{width:700px} }
+@media (min-width:1440px) {section#article{margin-left:200px} }
+@media (min-width:1440px) {section#more{margin-left:1130px} }
+@media (min-width:1440px) {nav{margin-left:-20px} }
+@media (min-width:1440px) {#articlem svg{margin-left:135px}}
+@media (min-width:2560px) {nav{margin-left:490px} } 
+@media (min-width:2560px) {section#more{margin-left:1645px} }
+
