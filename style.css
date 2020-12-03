@@ -276,13 +276,17 @@ padding-left:15px;}
   border-bottom: 10px solid grey;
 }			
 
-#recherche {
-  border-bottom: 1px solid grey;
-  border-right: 1px solid grey;
-  border-left: 1px solid grey;
+#more #search .explorer { padding-left:20px; 
+	padding-right:60px;
+	padding-bottom:5px; 
+	padding-top:5px;
+	margin-top:10px;
+	border:1px solid #1da1f2;
+	background-color:#202327;
+	border-radius:9999px;}	
   
-}
-#search{
+ 
+#search {
   display: flex;align-content: space-around; 
 }
 #champ{
